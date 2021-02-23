@@ -1,0 +1,16 @@
+# ignorar todos os arquivos nos diretórios especificados abaixo
+.ipynb_checkpoints/
+.idea/
+__pycache__/
+
+# ignorar todos os arquivos nos diretórios:
+01.geopandas/dados/originais/br_unidades_da_federacao/
+01.geopandas/dados/originais/RJ/
+01.geopandas/dados/originais/transporte/
+01.geopandas/dados/originais/vegetacao_uso_solo/
+
+# ignorar arquivos:
+01.geopandas/dados/originais/RJ.zip
+01.geopandas/dados/originais/Transportes.zip
+01.geopandas/dados/originais/Transporte-Vegetacao-UsoDoSolo.zip
+*.log
